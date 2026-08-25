@@ -17,4 +17,4 @@ The database follows 1NF, 2NF, and 3NF. Foreign keys are used to maintain relati
 
 
 
-ChatGPT is AI and can make mistakes.
+
