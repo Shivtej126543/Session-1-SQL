@@ -61,3 +61,7 @@ INSERT INTO enrollment VALUES (101, 502, 3, 'B');
 
 -- Insert Faculty (Fixed missing quotes)
 INSERT INTO faculty VALUES (1234, 'Shiv', 'shiv@gmail.com', 1);
+
+
+
+CREATE INDEX idx_student_dept ON student(dept_id);
